@@ -21,3 +21,7 @@ Hi there 👋
 I'm a Games programming student at Staffordshire University
 
 ### :hammer_and_wrench: Languages and Tools :
+<div>
+https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg
+</div>
+ 
