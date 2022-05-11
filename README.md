@@ -12,11 +12,8 @@
   </a>
 </div>
 
-<!--
-**BrendanC123/BrendanC123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
+### :woman_technologist: About Me :
+I'm a Games programming student at Staffordshire University
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -25,6 +22,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 
 ### :hammer_and_wrench: Languages and Tools :
