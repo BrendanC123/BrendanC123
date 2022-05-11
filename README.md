@@ -1,5 +1,17 @@
 ### Hi there 👋
 
+<div id="badges">
+  <a href="https://www.linkedin.com/in/brendan-collins-9a0326223/L">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://brendanc123.github.io/">
+    <img src="https://img.shields.io/badge/website-blue/>
+  </a>
+  <a href="your-twitter-URL">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
+
 <!--
 **BrendanC123/BrendanC123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
