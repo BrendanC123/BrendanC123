@@ -5,9 +5,9 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://brendanc123.github.io/">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+    <img src="https://img.shields.io/website?color=blue&label=web&logoColor=blue&style=flat-square&up_color=blue&up_message=site&url=https%3A%2F%2Fbrendanc123.github.io%2F"/>
   </a>
-  <a href="your-twitter-URL">
+  <a href="https://twitter.com/BrendanColDev">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
