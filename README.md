@@ -22,6 +22,10 @@ I'm a Games programming student at Staffordshire University
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
-<img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/opengl/opengl-plain.svg" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/sdl/sdl-plain.svg" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/tree/master/icons/unrealengine" width="40" height="40"/>
 </div>
  
