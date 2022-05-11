@@ -1,4 +1,7 @@
 <div align="center" id="badges">
+  <h1>
+    ### Hi there 👋
+  </h1>
   <a href="https://www.linkedin.com/in/brendan-collins-9a0326223/L">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -13,8 +16,6 @@
 <div align="center">
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="480" height="360"/>
 </div>
-
-### Hi there 👋
 
 ### :man_technologist: About Me :
 I'm a Games programming student at Staffordshire University
