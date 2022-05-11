@@ -6,7 +6,7 @@ Hi there 👋
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://brendanc123.github.io/">
-    <img src="https://img.shields.io/website?color=blue&label=web&logoColor=blue&style=for-the-badge&up_color=blue&up_message=site&url=https%3A%2F%2Fbrendanc123.github.io%2F"/>
+    <img src="https://img.shields.io/website?color=blue&label=web&logoColor=lightgrey&style=for-the-badge&up_color=blue&up_message=site&url=https%3A%2F%2Fbrendanc123.github.io%2F"/>
   </a>
   <a href="https://twitter.com/BrendanColDev">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
