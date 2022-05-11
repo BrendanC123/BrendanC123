@@ -1,6 +1,6 @@
 <div align="center" id="badges">
   <h1>
-    ### Hi there 👋
+Hi there 👋
   </h1>
   <a href="https://www.linkedin.com/in/brendan-collins-9a0326223/L">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
