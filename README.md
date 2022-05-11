@@ -12,7 +12,7 @@
   </a>
 </div>
 
-### :woman_technologist: About Me :
+### :man_technologist: About Me :
 I'm a Games programming student at Staffordshire University
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
