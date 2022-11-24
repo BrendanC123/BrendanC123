@@ -18,7 +18,7 @@ Hi there 👋
 </div>
 
 ### :man_technologist: About Me :
-I'm a Games programming student at Staffordshire University
+I'm a Games Development student at Staffordshire University
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
