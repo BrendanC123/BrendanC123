@@ -29,4 +29,4 @@ I'm a Games Development student at Staffordshire University
   <img src="https://github.com/devicons/devicon/blob/master/icons/unrealengine/unrealengine-original.svg" width="40" height="40"/>
 </div>
  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brendanc123&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
