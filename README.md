@@ -19,8 +19,8 @@ I'm a 3rd Year Games Development student at Staffordshire University and an aspr
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/unrealengine/unrealengine-original.svg" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/rider/rider-plain.svg" width="40" height="40"/>
