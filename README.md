@@ -15,7 +15,7 @@ Hi there 👋
 </div>
 
 ### :man_technologist: About Me :
-I'm a 3rd Year Games Development student at Staffordshire University and an aspriing games programmer with a strong knowledge in programming inside of both Unreal Engine 5 and Unity using C++ and C# respectively as well as experience programming outside of engine using both C++ and C#.
+I'm a Games Development graduate from Staffordshire University and an aspiring software with a strong knowledge in programming inside of both Unreal Engine 5 and Unity using C++ and C# respectively as well as experience programming outside of engine using both C++ and C#.
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
